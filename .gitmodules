@@ -1,0 +1,9 @@
+[submodule "ose"]
+	path = ose
+	url = https://github.com/OldManUmby/OSE.SRD.Wiki
+[submodule "dnd"]
+	path = dnd
+	url = https://github.com/OldManUmby/DND.SRD.Wiki
+[submodule "fuz"]
+	path = fuz
+	url = https://github.com/Magnushhoie/fuz
